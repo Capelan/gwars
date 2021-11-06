@@ -1,0 +1,111 @@
+<style>
+body {
+    background-color: #181818;
+    color: #FEF0C8;
+}
+a {
+    color: #FEF0C8;
+}
+table > tr > td > a {
+    color: #FEF0C8;
+}
+nobr {
+    color: #FEF0C8;
+}
+
+body > div.gw-container {
+    background-color: #181818;
+}
+body > div.gw-container > table {
+    background-color: #181818;
+    border-bottom: 1px solid #373737;
+}
+
+.begunok {
+    margin-left: -171px;
+    background: none;
+    /* old - > background: url(https://images.ganjawars.ru/img/v2/line.gif) 0 center repeat-x;*/
+    min-width: 800px;
+}
+
+/*body > div.gw-container > table > tbody > tr:nth-child(2) > td > div > span {
+    padding: 0 0px;
+    background: url(https://images.gwars.ru/img/v55/menubg11.gif) 0 0 repeat-x;
+}*/
+
+.begunok > span {
+    background-color: red;
+}
+
+
+
+
+#my_main_div {
+    border-top: 1px solid #373737;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#my_main_div > table > tbody > tr > td.txt > table > tbody > tr > td {
+    background-color: #212121;
+}
+
+
+
+
+.home_td_hl {
+    color: #FEF0C8;
+    background-color: #d0eed0;
+    font-weight: bold;
+    cursor: pointer;
+    height: 25;
+    transition: .2s linear;
+}
+.home_td_off {
+    color: #FEF0C8;
+    background-color: #e0ffe0;
+    font-weight: normal;
+    cursor: pointer;
+    height: 25;
+    transition: .2s linear;
+}
+
+
+
+
+
+
+
+
+.withborders {
+    border-top: 1px solid #373737;
+    border-bottom: 1px solid #373737;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
